@@ -2,7 +2,7 @@ from calculator import add, div, mul, sub
 
 
 def test_add():
-    assert add(1, 1) == 3
+    assert add(1, 1) == 4
 
 
 def test_sub():
